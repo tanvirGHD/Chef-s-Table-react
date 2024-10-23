@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "https://images.pexels.com/photos/1058095/pexels-photo-1058095.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipe_image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=800",
       "recipe_id": "001",
       "recipe_name": "Cheeseburger",
       "short_description": "A juicy cheeseburger with melted cheese, fresh lettuce, and tomato.",
@@ -28,7 +28,7 @@
       "calories": "300 calories"
     },
     {
-      "recipe_image": "https://images.pexels.com/photos/1629570/pexels-photo-1629570.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipe_image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=800",
       "recipe_id": "003",
       "recipe_name": "Chicken Nuggets",
       "short_description": "Crispy chicken nuggets served with a side of dipping sauce.",
@@ -55,7 +55,7 @@
       "calories": "250 calories"
     },
     {
-      "recipe_image": "https://images.pexels.com/photos/1111181/pexels-photo-1111181.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipe_image": "https://images.pexels.com/photos/1280240/pexels-photo-1280240.jpeg?auto=compress&cs=tinysrgb&w=800",
       "recipe_id": "005",
       "recipe_name": "Pepperoni Pizza",
       "short_description": "A classic pizza topped with spicy pepperoni and melted cheese.",
@@ -69,7 +69,7 @@
       "calories": "400 calories"
     },
     {
-      "recipe_image": "https://images.pexels.com/photos/1340834/pexels-photo-1340834.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipe_image": "https://images.pexels.com/photos/1280240/pexels-photo-1280240.jpeg?auto=compress&cs=tinysrgb&w=800",
       "recipe_id": "006",
       "recipe_name": "Milkshake",
       "short_description": "A creamy and delicious milkshake topped with whipped cream.",
